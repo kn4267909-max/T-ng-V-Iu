@@ -1,4 +1,4 @@
-export const PASSWORD = "12132007"; //sửa pass ở đây
+export const PASSWORD = "1234"; //sửa pass ở đây
 
 
 
